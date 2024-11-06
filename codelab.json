@@ -1,0 +1,29 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-11-06T12:00:27+01:00",
+  "id": "1",
+  "duration": 8,
+  "title": "Proyecto 1.1",
+  "summary": "Una guía para bastionar la BIOS/UEFI del HP Laptop 15s-fq2010ns",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown",
+    "bios",
+    "hp",
+    "uefi",
+    "bastionar",
+    "seguro"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "1"
+}
